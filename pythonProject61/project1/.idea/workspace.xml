@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08644719-b62f-471c-ab08-0fa180266a89" name="Changes" comment="" />
+    <list default="true" id="08644719-b62f-471c-ab08-0fa180266a89" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -51,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1736188571424</updated>
       <workItem from="1736188573410" duration="2240000" />
-      <workItem from="1736201702060" duration="624000" />
+      <workItem from="1736201702060" duration="1217000" />
+      <workItem from="1736203395823" duration="150000" />
     </task>
     <servers />
   </component>
