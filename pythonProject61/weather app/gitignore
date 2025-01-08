@@ -5,3 +5,10 @@
 Scripts/
 myenv/
 venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment configuration file
+pyvenv.cfg
